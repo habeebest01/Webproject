@@ -1,0 +1,92 @@
+{ 
+    "jobs": [
+    {
+        "id": "1",
+        "title": "Frontend Developer",
+        "type": "Full-time",
+        "description": "We are looking for a skilled Frontend Developer to join our team. You will be responsible for building and maintaining our web applications using React.js.We are seeking a versatile Full Stack Developer to work on both frontend and backend development. Proficiency in React.js and Node.js is required.",
+        "apply": "https://techsolutions.com/careers/frontend-developer",
+        "location": "Apapa, Lagos",
+        "salary": "$70,000k - $290,000k",
+        "company":{
+            "name": "Tech Solutions",
+            "description": "Tech Solutions is a leading software development company specializing in innovative web and mobile applications.",
+            "contact-email": "habeebest07@mail.com",
+            "concact-phone": "+234 8062113419"
+        }
+        },
+    {
+        "id": "2",
+        "title": "Backend Developer",
+        "type": "Part-time",
+        "location": "Ikeja, Lagos",
+        "description": "Join our dynamic team as a Backend Developer. You will work on server-side logic, database management, and API development using Node.js and Express. Proficiency in React.js and Node.js is required.",
+        "apply": "https://innovatesoft.com/jobs/backend-developer",
+        "salary": "$80,000k - $100,000k",
+        "company":{
+             "name": "CodeCrafters",
+            "description": "Join our dynamic team as a Backend Developer. You will work on server-side logic, database management, and API development using Node.js and Express.",
+            "contact-email": "wacodemo@mail.com",
+            "concact-phone": "+234 8062113419"
+  }
+    },
+    {
+        "id": "3",
+        "title": "Full Stack Developer",
+        "type": "Full time",
+        "location": "Victoria Island, Lagos",
+        "description": "We are seeking a versatile Full Stack Developer to work on both frontend and backend development. Proficiency in React.js and Node.js is required. Proficiency in React.js and Node.js is required.",
+        "apply": "https://devhub.com/careers/full-stack-developer",
+        "salary": "$90,000k - $120,000k",
+        "company":{
+             "name": "DevHub",
+            "description": "DevHub is a collaborative platform for developers, offering tools and resources to enhance productivity and project management.",
+            "contact-email": "habeebest07@mail.com",
+            "concact-phone": "+234 8062113419"
+        }
+    },
+    {
+        "id": "4",
+        "title": "React Developer",
+        "type": "Full time",
+        "location": "Victoria Island, Lagos",
+        "description": "We are seeking a versatile Full Stack Developer to work on both frontend and backend development. Proficiency in React.js and Node.js is required.DevHub is a collaborative platform for developers, offering tools and resources to enhance productivity and project management.",
+        "apply": "https://devhub.com/careers/full-stack-developer",
+        "salary": "$9000k - $220,000k",
+        "company":{
+             "name": "DevHubs",
+            "contact-email": "habeebest07@mail.com",
+            "concact-phone": "+234 8062113419"
+        }
+    },
+    {
+        "id": "5",
+        "title": "Full Stack Developer",
+        "type": "Full time",
+        "location": "Victoria Island, Lagos",
+        "description": "We are seeking a versatile Full Stack Developer to work on both frontend and backend development. Proficiency in React.js and Node.js is required.DevHub is a collaborative platform for developers, offering tools and resources to enhance productivity and project management.",
+        "apply": "https://devhub.com/careers/full-stack-developer",
+         "salary": "$90,000k - $110,000k",
+        "company":{
+             "name": "DevHub",
+            "contact-email": "habeebest07@mail.com",
+            "concact-phone": "+234 8062113419"
+        }
+    },
+    
+    {
+        "id": "6",
+        "title": "React Developer",
+        "type": "Full time",
+        "location": "Victoria Island, Lagos",
+        "description": "We are seeking a versatile Full Stack Developer to work on both frontend and backend development. Proficiency in React.js and Node.js is required.DevHub is a collaborative platform for developers, offering tools and resources to enhance productivity and project management.",
+        "apply": "https://devhub.com/careers/full-stack-developer",
+        "salary": "$90,000k - $110,000k",
+        "company":{
+             "name": "Hubcode",
+            "contact-email": "Code07@mail.com",
+            "concact-phone": "+234 8062113419"
+        }
+    }
+]
+}
